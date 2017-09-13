@@ -10,6 +10,9 @@
 // afterAll: run only once after all test 
 // afterEach: run after each test 
 
+// Specs: describe takes a string and a function.
+//  The string is the title of the spec and the function is the spec, or test.
+
 describe("calculate addition", function(){
     
         // expect start
@@ -56,3 +59,5 @@ describe("calculate addition", function(){
         })
     
     });
+
+    
